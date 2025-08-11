@@ -1,3 +1,3 @@
-name = input("Hello What is your name .? ")
+name = input("What is your name .?")
 
-print("Hi", name)
+print("Hello", name, "Welcome to the Matrix")
