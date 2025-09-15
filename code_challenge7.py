@@ -1,5 +1,6 @@
 #code challenge
 #Odd number summation
+#Enter 10 numbers
 
 print("ODD NUMBER SUMMATION")
 
